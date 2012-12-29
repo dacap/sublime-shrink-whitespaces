@@ -9,4 +9,4 @@ The action depends on the context where the command is used.
 
 Default keyboard shortcut: <kbd>Alt+W</kbd>
 
-Based on [ErgoEmacs](http://www.ergoemacs.org/)'s [shrink-whitespaces](http://code.google.com/p/ergoemacs/issues/detail?id=13) function, which is a combination of three Emacs functions: just-one-space, delete-blank-lines, delete-horizontal-space.
+Based on [ErgoEmacs](http://www.ergoemacs.org/)'s [shrink-whitespaces](http://code.google.com/p/ergoemacs/issues/detail?id=13) function, which is a combination of three Emacs functions: `just-one-space`, `delete-blank-lines`, and `delete-horizontal-space`.
