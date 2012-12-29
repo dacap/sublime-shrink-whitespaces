@@ -5,6 +5,7 @@ This plugin gives you `shrink_whitespaces` command for [Sublime Text 2](http://w
 * Remove the blank line that is between two paragraphs, or
 * Remove a set of whitespaces between two words, or
 * Remove the whitespace between two letters.
+
 The action depends on the context where the command is used.
 
 Default keyboard shortcut: <kbd>Alt+W</kbd>
